@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <clark>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160731-clark.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160807-clark.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/clark/ResurrectionRemix-M-v5.7.2-20160731-clark.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/clark/ResurrectionRemix-M-v5.7.2-20160807-clark.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
