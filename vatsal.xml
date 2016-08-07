@@ -59,11 +59,11 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</surnia>
         <lux>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160731-lux.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160807-lux.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/lux/ResurrectionRemix-M-v5.7.2-20160731-lux.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/lux/ResurrectionRemix-M-v5.7.2-20160807-lux.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
