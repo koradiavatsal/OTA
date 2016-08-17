@@ -21,11 +21,11 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</clark>
         <osprey>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160807-osprey.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160817-osprey.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/osprey/ResurrectionRemix-M-v5.7.3-20160807-osprey.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/osprey/ResurrectionRemix-M-v5.7.3-20160817-osprey.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -59,7 +59,7 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</surnia>
         <lux>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160807-lux.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160817-lux.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
