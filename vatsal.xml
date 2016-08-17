@@ -77,5 +77,24 @@
             	title="BaNkS Dynamic GApps"
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</lux>
+	<falcon>
+	    <Filename>ResurrectionRemix-M-v5.7.3-20160817-falcon.zip</Filename>
+            <BuildUrl
+            	id="build"
+            	title="LatestBuild"
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/falcon/ResurrectionRemix-M-v5.7.3-20160817-falcon.zip</BuildUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/falcon</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl> 
+	</falcon>	
     </Stable>
 </SlimOTA>
