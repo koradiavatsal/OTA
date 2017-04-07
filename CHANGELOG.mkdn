@@ -1,0 +1,75 @@
+ ▼ Resurrection Remix Nougat Ver 5.8.2 Changelog
+
+
+ ▼ 04/06/2017
+
+
+ ▪ project frameworks/base/
+ ▪ f0757114440 Fix permission description string for DE.
+
+ ▪ project packages/apps/Dialer/
+
+ ▪ project packages/apps/Settings/
+ ▪ 6fb24032c Fix magisk manager settings location
+
+ ▪ project vendor/motorola/
+ ▪ 609ff78b shamu: update blobs from N6F26Y factory image
+
+ ▼ 04/05/2017
+
+
+ ▪ project device/motorola/msm8226-common/
+ ▪ a080b7d overlay: Snap: Reduce frame size of panoramic pictures
+
+ ▪ project frameworks/base/
+ ▪ f143cd6d8ef Merge pull request #188 from ashoksoni/changes
+ ▪ 15f89f627bd Fix Bluetooth battery icon after reboot
+ ▪ 89d8e6b68ea Fix Hotspot tile is shown on Guest user
+ ▪ eda1e77ebcb SettingsProvider: Update icon.
+
+ ▪ project hardware/ti/omap4/
+ ▪ 86ea9e8 omap4: add more common build properties
+ ▪ 368f365 omap4: define BOARD_CANT_REALLOCATE_OMX_BUFFERS
+ ▪ cce4d95 omap4: camera: restore compatibility with older Android versions (< Android N)
+
+ ▪ project kernel/motorola/msm8226/
+ ▪ 923c16fd6bb misc: l3g4200d: Keep track of the sensor config
+ ▪ 68923da9aea misc: l3g4200d: Set ODR only when the sensor is enabled
+▪ project packages/apps/ResurrectionOTA/
+
+ ▪ project packages/apps/ResurrectionStats/
+
+ ▪ project packages/apps/Settings/
+
+ ▪ project packages/apps/Snap/
+ ▪ 673547e19 CaptureUI: fix crash on setOrientation
+ ▪ a8285adbb Snap: Fix effect and picture program overlay buttons
+ ▪ 65aa6fdd3 Always apply frame size reduction to panorama pictures
+ ▪ 9e8d9195a Never ignore finger swipes in gallery mode
+ ▪ b9da2b071 Fix record time sometimes not seen
+
+ ▪ project vendor/motorola/
+ ▪ d0f4ae0a omap4-common: Update DRM blobs from Z3 (via serrano)
+
+ ▼ 04/04/2017
+
+
+ ▪ project device/motorola/msm8226-common/
+ ▪ edf69c7 CMActions: Don't crash after screen rotations
+
+ ▪ project frameworks/base/
+ ▪ 3f2e2182465 Smartbar pixel animation: Ability to customize the dots [1/3]
+ ▪ a0e34fdaef8 FWB:Pulse: allow setting fading blocks opacity [1/3]
+
+ ▪ project hardware/ti/omap4/
+ ▪ 0254e40 omap4: define TARGET_CAMERASERVICE_CLOSES_NATIVE_HANDLES
+ ▪ 7839bd6 camera: Use GBAllocator.allocate for N_MR1.
+ ▪ 3c75dc7 Revert "camera: switch to Gralloc.allocate and generate unique Id for allocation"
+ ▪ c9d954d camera: Rename version_major/minor to the new, non-deprecated names.
+ ▪ 0f2b557 camera: clean up build when various OMAP_ENHANCEMENTs are disabled
+ ▪ 9cf111b Revert "hwc: publicly define omap specific usage flags"
+ ▪ 9a75172 seccomp: allow clock_nanosleep syscall
+ ▪ 3a17e59 Fix camera video recording on N.
+ ▪ 547e464 android-api: Add N_MR1 defines.
+ ▪ c7d8882 camera: fix build for LP
+ ▪ 9843c81 android-api: Add LP_MR1 defines.
